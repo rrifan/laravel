@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Welcome</title>
+        <title>Website</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -91,6 +91,7 @@
                     <a href="pertama">Pertama</a>
                     <a href="kedua">Kedua</a>
                     <a href="ketiga">Ketiga</a>
+                    <a href="dashboard">Dashboard</a>
                 </div>
             </div>
         </div>
